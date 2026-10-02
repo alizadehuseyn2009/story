@@ -1,0 +1,21 @@
+{
+    "background.filepath": "\"C:\\Users\\huseyn.alizade\\Downloads\\mimi-typh.png\"",
+    "background.windowBackgrounds": [
+        "\"C:\\Users\\huseyn.alizade\\Downloads\\mimi-typh.png\""
+    ],
+    "background.editorBackgrounds": [
+        "\"C:\\Users\\huseyn.alizade\\Downloads\\mimi-typh.png\""
+    ],
+    "background.sidebarBackgrounds": [
+        "\"C:\\Users\\huseyn.alizade\\Downloads\\mimi-typh.png\""
+    ],
+    "background.panelBackgrounds": [
+        "\"C:\\Users\\huseyn.alizade\\Downloads\\mimi-typh.png\""
+    ],
+    "background.useInvertedOpacity": true,
+    "background.removeTerminalBackground": true,
+    "background.renderTextAboveBackground": true,
+    "background.autoInstall": true,
+    "background.smoothImageRendering": true,
+    "background.opacity": 1
+}
